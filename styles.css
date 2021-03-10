@@ -1,0 +1,90 @@
+
+/******************************************
+               SITE WIDE 
+******************************************/
+h1 { 
+ color: #CC4010;
+}
+
+body {
+    background-color: #fff;
+}
+.container {
+    margin-top: 15px;
+}
+.contact-body {
+    background-color: #fff;
+}
+.big {
+    display: flex;
+    justify-content: center;
+    font-size: 5em;
+    text-decoration: underline;
+    
+}
+
+.bg-blue { 
+ background-color: #2EBDFF;
+}
+
+
+/*------------------------------
+         Services CSS
+-------------------------------*/
+.svc { 
+  text-align: center;
+
+
+}
+.svinner { 
+padding: 1rem; 
+}
+
+.svinner h3 { 
+ color: #CC4010;
+
+
+}
+
+
+
+
+.firstpic {
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 2px solid #2EBDFF;
+}
+.blocky {
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid #2EBDFF;
+}
+.hugecard {
+    margin-top: 10px;
+}
+
+.jumbotron-fluid {
+    margin-top: 15px;
+    background-color: #FFFAE2;
+}
+.btn {
+    background-color: lightgray;
+    border: none;
+    color: black;
+}
+.card {
+    margin-top: 15px;
+    background-color: #2EBDFF;
+}
+.card-header  {
+    background-color: #92977E;
+}
+.card
+
+.card-footer {
+    background-color: #92977E;
+    color: black;
+}
+
